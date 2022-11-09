@@ -16,7 +16,7 @@
 ### Testing documentation
 
 - [Test cases](https://docs.google.com/document/d/1FFcWMeFE-rHHs2PxsshpXNUrREogsJ4Am34geeqa9Q4/edit?usp=sharing)
-- [Bug Reports]()
+- [Bug Reports](https://docs.google.com/document/d/1W30pTr0OpBz6P9v1Ld9WbCKM2e8JHRa5BntZSOKhRdM/edit?usp=sharing)
 
 ### Follow me
 
