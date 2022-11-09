@@ -2,8 +2,6 @@
 
 ## Quality Assurance Engineer
 
-Latest Youtube Videos
-
 ### Language and Tools
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052cc)
@@ -15,7 +13,12 @@ Latest Youtube Videos
 ![Testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge)
 ![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge)
 
-#### Follow me
+### Testing documentation
+
+- [Test cases](https://docs.google.com/document/d/1FFcWMeFE-rHHs2PxsshpXNUrREogsJ4Am34geeqa9Q4/edit?usp=sharing)
+- [Bug Reports]()
+
+### Follow me
 
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/yuliia.shevchenko_/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yuliia-shevchenko-358671237/)
